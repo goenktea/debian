@@ -1,2 +1,1 @@
-# debian
-setup vps debian
+apt update && apt upgrade -y && update-grub && sleep 2 && reboot
